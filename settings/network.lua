@@ -14,7 +14,7 @@ xi.settings.network =
     SQL_HOST     = "127.0.0.1",
     SQL_PORT     = 3306,
     SQL_LOGIN    = "xi",
-    SQL_PASSWORD = "Pulmicort01",
+    SQL_PASSWORD = "your password",
     SQL_DATABASE = "xidb",
 
     LOGIN_DATA_IP   = "0.0.0.0",
